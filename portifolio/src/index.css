@@ -1,0 +1,244 @@
+@import "tailwindcss";
+
+/* Fundo Premium */
+.about-section {
+  background: linear-gradient(to bottom right, #0b0b0b, #141414, #0b0b0b);
+  position: relative;
+}
+
+/* Glow por trás do título */
+.radial-glow {
+  width: 600px;
+  height: 260px;
+  background: rgba(255, 115, 0, 0.25);
+  filter: blur(140px);
+  border-radius: 50%;
+}
+
+/* Título */
+.about-title {
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: transparent;
+  background: linear-gradient(to right, #ffa230, #ffe08a, white);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.gradient-name {
+  font-weight: 900;
+  text-shadow: 0 0 15px rgba(255, 165, 0, 0.4);
+}
+
+/* Parágrafos */
+.about-description {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: rgba(220, 220, 220, 0.85);
+  max-width: 800px;
+  line-height: 1.7;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Seções */
+.section-title {
+  font-size: 2.3rem;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.section-paragraph {
+  color: rgba(230, 230, 230, 0.85);
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+/* Skills */
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 22px;
+  margin-top: 20px;
+}
+
+.skill-card {
+  width: 95px;
+  height: 95px;
+  backdrop-filter: blur(18px);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.25s ease-in-out;
+}
+
+.skill-card:hover {
+  transform: translateY(-6px) rotate(2deg);
+  box-shadow: 0 8px 25px rgba(255, 140, 0, 0.4);
+}
+
+.skill-icon {
+  width: 50px;
+  height: 50px;
+}
+
+/* Timeline */
+.timeline-date {
+  color: #ffb066;
+  font-weight: bold;
+}
+
+.timeline-icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.timeline-icon {
+  width: 70%;
+  height: 70%;
+  object-fit: contain;
+}
+
+.timeline-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: white;
+}
+
+.timeline-subtitle {
+  color: rgba(220, 220, 220, 0.8);
+  font-weight: 500;
+}
+
+/* Lista dentro do card */
+.timeline-list {
+  margin-top: 16px;
+  margin-left: 20px;
+  color: rgba(235, 235, 235, 0.8);
+}
+
+.timeline-item {
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+}
+
+.block-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-back {
+  position: absolute;
+  inset: 0;
+  filter: blur(6px);
+  opacity: 0.7;
+}
+
+.btn-front {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: white;
+}
+
+/* Background premium igual ao About */
+.projects-section {
+  background: linear-gradient(to bottom right, #0b0b0b, #141414, #0b0b0b);
+  position: relative;
+}
+
+/* Glow por trás do título */
+.radial-glow {
+  width: 600px;
+  height: 300px;
+  background: rgba(255, 115, 0, 0.25);
+  filter: blur(150px);
+  border-radius: 50%;
+}
+
+/* Títulos */
+.projects-title {
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: transparent;
+  background: linear-gradient(to right, #ffa230, #ffe08a, white);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.projects-title span {
+  font-weight: 900;
+  text-shadow: 0 0 15px rgba(255, 165, 0, 0.4);
+}
+
+/* Grid dos projetos */
+.projects-grid {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 48px;
+}
+
+.project-card {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(18px);
+  border-radius: 22px;
+  padding: 28px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.35);
+  transition: 0.35s ease-in-out;
+  text-decoration: none;
+  display: block;
+}
+
+/* Efeito de hover visual forte, padrão Dribbble/Awwwards */
+.project-card:hover {
+  transform: translateY(-10px) scale(1.02);
+  box-shadow: 0 15px 40px rgba(255, 140, 0, 0.35);
+  border-color: rgba(255, 160, 90, 0.4);
+}
+
+/* Mudar cursor */
+.project-card {
+  cursor: pointer;
+}
+
+/* Ícone da seta */
+.arrow-btn img {
+  transition: 0.3s ease;
+}
+
+.project-card:hover .arrow-btn img {
+  transform: translateX(6px);
+  filter: drop-shadow(0 0 4px rgba(255, 150, 80, 0.7));
+}
+
+/* Ícone do projeto */
+.project-icon-wrapper {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 20px;
+  border-radius: 18px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.25s ease-in-out;
+}
+
+.project-card:hover .project-icon-wrapper {
+  transform: rotate(6deg) scale(1.08);
+}
+
