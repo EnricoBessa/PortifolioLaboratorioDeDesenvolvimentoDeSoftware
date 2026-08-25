@@ -55,9 +55,9 @@ const resources = {
           Demonstrates mastery of modern frontend (React + Tailwind)
           Serves as a personal portfolio for recruiters and companies
           Shows attention to UI/UX and content organization`,
-          IconUrl: '/EnricoBessaPortifolio/images/react.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/react.svg',
           theme: 'bg-gradient-to-tr from-orange-400 to-yellow-500',
-          link: 'https://github.com/EnricoBessa/EnricoBessaPortifolio'
+          link: 'https://github.com/EnricoBessa/PortifolioLaboratorioDeDesenvolvimentoDeSoftware'
         },
         {
           name: "AimTrainer",
@@ -66,7 +66,7 @@ const resources = {
           technology: "Technologies",
           description: `
           Backend: Python with Pygame integration`,
-          IconUrl: '/EnricoBessaPortifolio/images/python.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/python.svg',
           theme: 'bg-gradient-to-tr from-indigo-500 to-purple-600',
           link: 'https://github.com/EnricoBessa/AimTrainer',
         },
@@ -78,7 +78,7 @@ const resources = {
           description: `
           Backend: Python with Ollama integration
           AI: Gemma 3B model for conversational responses`,
-          IconUrl: '/EnricoBessaPortifolio/images/python.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/python.svg',
           theme: 'bg-gradient-to-tr from-teal-400 to-cyan-500',
           link: 'https://github.com/EnricoBessa/AiAgent',
         },
@@ -94,7 +94,7 @@ const resources = {
           Database: PostgreSQL was used for structured data storage.  
           Summary: The platform allows users to organize teams, create and assign tasks, track progress through Kanban-style boards, and collaborate in real time with other members.  
           `,
-          IconUrl: '/EnricoBessaPortifolio/images/javascript.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/javascript.svg',
           theme: 'bg-gradient-to-tr from-green-500 to-blue-500',
           link: 'https://github.com/EnricoBessa/trabalho-em-grupo_gestao-de-times-e-tarefas',
         }
@@ -107,7 +107,7 @@ const resources = {
           description: `
           Frontend: Flutter with responsive interface and cross-platform support (Android/iOS)
           Design: Modern and minimalistic UI, using SVGs and dynamic lists`,
-          IconUrl: '/EnricoBessaPortifolio/images/flutter.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/flutter.svg',
           theme: 'bg-gradient-to-tr from-pink-500 to-red-500',
           link: 'https://github.com/EnricoBessa/FitnessApp',
         }
@@ -118,19 +118,19 @@ const resources = {
       certificate_list: [
         {
           name: "Technical High School Certificate in Information Technology",
-          path: "/EnricoBessaPortifolio/certificados/CertificadoTecnico.jpeg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/CertificadoTecnico.jpeg",
         },
         {
           name: "Certificate of Completion – Harvard's Computer Science Course in Brazil",
-          path: "/EnricoBessaPortifolio/certificados/CertificadoCienciaComputacaoHarvard.jpg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/CertificadoCienciaComputacaoHarvard.jpg",
         },
         {
           name: "Certificate in Python – Python course at Santander",
-          path: "/EnricoBessaPortifolio/certificados/ceritficado_python_santander.jpg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/ceritficado_python_santander.jpg",
         },
         {
           Name: "Artificial Intelligence Certificate – AI Course for Small and Medium-Sized Businesses",
-          path: "/EnricoBessaPortifolio/certificados/certificado_cusro_ia_santander.jpg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/certificado_cusro_ia_santander.jpg",
         },
       ],
 
@@ -196,9 +196,9 @@ const resources = {
           Demonstra domínio de frontend moderno (React + Tailwind)
           Serve como vitrine pessoal para recrutadores e empresas
           Mostra preocupação com UI/UX e organização de conteúdo`,
-          IconUrl: '/EnricoBessaPortifolio/images/react.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/react.svg',
           theme: 'bg-gradient-to-tr from-orange-400 to-yellow-500',
-          link: 'https://github.com/EnricoBessa/EnricoBessaPortifolio'
+          link: 'https://github.com/EnricoBessa/PortifolioLaboratorioDeDesenvolvimentoDeSoftware'
         },
         {
           name: "AimTrainer",
@@ -207,7 +207,7 @@ const resources = {
           technology: "Tecnologias",
           description: `
           Backend: Python usando integração ao Pygame`,
-          IconUrl: '/EnricoBessaPortifolio/images/python.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/python.svg',
           theme: 'bg-gradient-to-tr from-indigo-500 to-purple-600',
           link: 'https://github.com/EnricoBessa/AimTrainer',
         },
@@ -219,7 +219,7 @@ const resources = {
           description: `
           Backend: Python com integração ao Ollama
           IA: Modelo Gemma 3B para respostas conversacionais`,
-          IconUrl: '/EnricoBessaPortifolio/images/python.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/python.svg',
           theme: 'bg-gradient-to-tr from-teal-400 to-cyan-500',
           link: 'https://github.com/EnricoBessa/AiAgent',
         },
@@ -235,7 +235,7 @@ const resources = {
           Database: Utilização de PostgreSQL para armazenamento estruturado dos dados.  
           Resumo: A plataforma permite organizar times, criar e atribuir tarefas, acompanhar progresso em quadros estilo Kanban e colaborar em tempo real com outros membros.  
           `,
-          IconUrl: '/EnricoBessaPortifolio/images/javascript.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/javascript.svg',
           theme: 'bg-gradient-to-tr from-green-500 to-blue-500',
           link: 'https://github.com/EnricoBessa/trabalho-em-grupo_gestao-de-times-e-tarefas',
         },
@@ -247,7 +247,7 @@ const resources = {
           description: `
           Frontend: Flutter com interface responsiva e suporte multiplataforma (Android/iOS)
           Design: Visual moderno e minimalista, utilizando SVGs e listas dinâmicas`,
-          IconUrl: '/EnricoBessaPortifolio/images/flutter.svg',
+          IconUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/flutter.svg',
           theme: 'bg-gradient-to-tr from-pink-500 to-red-500',
           link: 'https://github.com/EnricoBessa/FitnessApp',
         },
@@ -258,19 +258,19 @@ const resources = {
       certificate_list: [
         {
           name: "Certificado de conclusão ensino médio técnico em informatica",
-          path: "/EnricoBessaPortifolio/certificados/CertificadoTecnico.jpeg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/CertificadoTecnico.jpeg",
         },
         {
           name: "Certificado de conclusão ciência da computação de Harvard no Brasil",
-          path: "/EnricoBessaPortifolio/certificados/CertificadoCienciaComputacaoHarvard.jpg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/CertificadoCienciaComputacaoHarvard.jpg",
         },
         {
           name: "Certificado em Python – Cusro de Python no Santander",
-          path: "/EnricoBessaPortifolio/certificados/ceritficado_python_santander.jpg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/ceritficado_python_santander.jpg",
         },
         {
           name: "Certificado Inteligência Artificial – Cusro de IA para pequenas e médias empresas",
-          path: "/EnricoBessaPortifolio/certificados/certificado_cusro_ia_santander.jpg",
+          path: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/certificados/certificado_cusro_ia_santander.jpg",
         },
       ],
 

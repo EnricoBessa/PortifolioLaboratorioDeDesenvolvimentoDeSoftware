@@ -4,7 +4,7 @@ export const experience = [
   {
     title: "Support and Data Analysis Intern",
     company_name: "EMATER-MG",
-    icon: "/EnricoBessaPortifolio/images/emater.png",
+    icon: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/emater.png",
     iconBg: "white",
     date: "April 2023 - March 2024",
     points: [
@@ -15,7 +15,7 @@ export const experience = [
   {
     title: "Software Engineer Intern",
     company_name: "DTG Consultoria e Projetos",
-    icon: "/EnricoBessaPortifolio/images/dtg.jpeg",
+    icon: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/dtg.jpeg",
     iconBg: "white",
     date: "April 2024 - Present",
     points: [

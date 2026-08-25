@@ -2,7 +2,7 @@ export const education = [
   {
     title: "Technical Degree in IT",
     institution_name: "COTEMIG - College and High School",
-    icon: "/EnricoBessaPortifolio/images/cotemig.png",
+    icon: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/cotemig.png",
     iconBg: "white",
     date: "January 2020 - December 2022",
     points: [
@@ -13,7 +13,7 @@ export const education = [
   {
     title: "Bachelor's in Software Engineering",
     institution_name: "PUC Minas",
-    icon: "/EnricoBessaPortifolio/images/puc.png",
+    icon: "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/puc.png",
     iconBg: "white",
     date: "January 2023 - Present",
     points: [
