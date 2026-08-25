@@ -5,54 +5,54 @@
 export const skills = [
   {
     name: 'C#',
-    imageUrl: '/EnricoBessaPortifolio/images/csharp.png',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/csharp.png',
   },
   {
     name: 'DotNet',
-    imageUrl: '/EnricoBessaPortifolio/images/dotnet.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/dotnet.svg',
   },
   {
     name: 'JavaScript',
-    imageUrl: '/EnricoBessaPortifolio/images/javascript.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/javascript.svg',
   },
   {
     name: 'HTML5',
-    imageUrl: '/EnricoBessaPortifolio/images/html5.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/html5.svg',
   },
   {
     name: 'CSS',
-    imageUrl: '/EnricoBessaPortifolio/images/css.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/css.svg',
   },
   {
     name: 'Mysql',
-    imageUrl: '/EnricoBessaPortifolio/images/mysql.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/mysql.svg',
   },
   {
     name: 'Python',
-    imageUrl: '/EnricoBessaPortifolio/images/python.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/python.svg',
   },
   {
     name: 'C',
-    imageUrl: '/EnricoBessaPortifolio/images/c.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/c.svg',
   },
   // {
   //   name: 'PHP',
-  //   imageUrl: '/EnricoBessaPortifolio/images/php.svg',
+  //   imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/php.svg',
   // },
   {
     name: 'Flutter',
-    imageUrl: '/EnricoBessaPortifolio/images/flutter.svg',
+    imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/flutter.svg',
   },
   // {
   //   name: 'Networks',
-  //   imageUrl: '/EnricoBessaPortifolio/images/network.png', 
+  //   imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/network.png', 
   // },
   // {
   //   name: 'Computer Architecture',
-  //   imageUrl: '/EnricoBessaPortifolio/images/architecture.png',
+  //   imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/architecture.png',
   // },
   // {
   //   name: 'English (Intermediate)',
-  //   imageUrl: '/EnricoBessaPortifolio/images/english.png',
+  //   imageUrl: '/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/images/english.png',
   // },
 ];

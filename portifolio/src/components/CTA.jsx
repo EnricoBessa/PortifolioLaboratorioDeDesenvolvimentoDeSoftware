@@ -8,8 +8,8 @@ const CTA = () => {
     // Seleciona o currículo baseado no idioma atual
     const resumeUrl =
         i18n.language === "pt"
-            ? "/EnricoBessaPortifolio/curriculos/Curriculo.pdf"
-            : "/EnricoBessaPortifolio/curriculos/Resume.pdf";
+            ? "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/curriculos/Curriculo.pdf"
+            : "/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/curriculos/Resume.pdf";
 
     return (
         <section className="border-t border-white/10 py-8 bg-[#0c0c0c]">

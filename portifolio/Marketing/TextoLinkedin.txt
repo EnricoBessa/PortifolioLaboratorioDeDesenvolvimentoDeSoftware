@@ -4,7 +4,7 @@ Depois de muito aprendizado, dedicação e várias linhas de código, finalizei 
 Nele, compartilho meus projetos, minha trajetória e um pouco do que gosto de criar como desenvolvedor.
 
 🔗 Confira aqui:
-➡️ https://enricobessa.github.io/EnricoBessaPortifolio
+➡️ https://enricobessa.github.io/PortifolioLaboratorioDeDesenvolvimentoDeSoftware
 
 Ficarei muito feliz com qualquer feedback, conexão ou comentário. Obrigado a todos que me acompanham nessa jornada!
 
@@ -16,6 +16,6 @@ After a lot of learning, dedication, and many lines of code, I’ve finally publ
 There, I showcase my projects, my journey, and a bit of what I love building as a developer.
 
 🔗 Check it out:
-➡️ https://enricobessa.github.io/EnricoBessaPortifolio
+➡️ https://enricobessa.github.io/PortifolioLaboratorioDeDesenvolvimentoDeSoftware
 
 I’d love to hear your feedback, connect, or exchange ideas. Thanks to everyone who supports me along the way!
