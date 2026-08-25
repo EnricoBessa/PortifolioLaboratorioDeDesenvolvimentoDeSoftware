@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio online! Aqui você pode conhecer meus projetos, minhas habilidades e meus certificados.  
 
-🧑‍💻 **Acesse meu site**: [Enrico Bessa Portfolio](https://enricobessa.github.io/EnricoBessaPortifolio/)
+🧑‍💻 **Acesse meu site**: [Enrico Bessa Portfolio](https://enricobessa.github.io/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/)
 
 ---
 
@@ -36,7 +36,7 @@ Aqui estão algumas das principais tecnologias que uso nos meus projetos:
 
 Welcome to my online portfolio! Here you can explore my projects, skills, and certificates.
 
-🧑‍💻 **Access my website**: [Enrico Bessa Portfolio](https://enricobessa.github.io/EnricoBessaPortifolio/)
+🧑‍💻 **Access my website**: [Enrico Bessa Portfolio](https://enricobessa.github.io/PortifolioLaboratorioDeDesenvolvimentoDeSoftware/)
 
 ---
 
